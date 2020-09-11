@@ -1,6 +1,6 @@
 # go_starter
 
-## Golang exercises 
+## Golang exercises
 
 As presented on:
 
