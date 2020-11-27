@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "data": [
+    {
+      "title": "file1",
+      "link": "./data/files/file1.md",
+      "description": "file 1 on local drive"
+    },
+    {
+      "title": "file2",
+      "link": "./data/files/file2.md",
+      "description": "file 2 on local drive"
+    },
+    {
+      "title": "file3",
+      "link": "./data/files/file3.md",
+      "description": "file 3 on local drive"
+    }
+  ]
+}
